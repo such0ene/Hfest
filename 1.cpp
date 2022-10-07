@@ -4,7 +4,5 @@ using namespace std;
 
 int main()
 {
-  printf("Hello World");
-  printf("%d",20);
-
+  cout<<"Hello World"<<20;
 }
